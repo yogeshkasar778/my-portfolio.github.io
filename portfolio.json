@@ -1,0 +1,250 @@
+{
+  "name": "Yogesh Kasar",
+  "label": "Data Analyst",
+  "image_path": "img/default-image.png",
+  "contact": {
+    "email": "kasary778@gmail.com",
+    "phone": "+91 8080417633",
+    "location": "Pune, Maharashtra, India"
+  },
+  "summary": "Data Analyst with 1.8 years of experience in building ETL pipelines, analyzing large datasets, and creating interactive dashboards for business decision-making. Skilled in SQL (Snowflake, MySQL), Python (Pandas, NumPy, Scikit-learn), and Power BI. Experienced in automate Data Profiling using Snowflake Python. Strong background in data quality improvement, performance tuning, and collaborating cross-functionally to meet tight project deadlines.",
+  "base_url": "127.0.0.1:5500",
+  "social_links": [
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/yogeshkasar97/",
+      "svg_path": "img/linkedin.svg"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/yogeshkasar778",
+      "svg_path": "img/github.svg"
+    },
+    {
+      "label": "YouTube",
+      "url": "https://www.youtube.com/@DataWithYog",
+      "svg_path": "img/youtube.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Worldbox Technologies LLP",
+      "position": "Data Analyst",
+      "url": "https://worldbox.net/index.cfm",
+      "start_date": "01/04/2024",
+      "end_date": "Present",
+      "summary": "Data Analyst specializing in SQL, Snowflake, Python, and Power BI. Optimized data retrieval, automated ETL processes, and built interactive dashboards to drive business insights and efficiency.",
+      "highlights": [
+        "Developed and optimized SQL queries in Snowflake and MySQL, improving data retrieval efficiency by 35% for reporting and analysis tasks.",
+        "Automated data cleaning and transformation tasks using Python, reducing manual effort by 40% and increasing team productivity.",
+        "Built ETL processes for structured data using SQL and Snowflake, resulting in a 30% improvement in data accuracy and consistency.",
+        "Generated interactive Power BI dashboards for key business metrics, enabling real-time insights, improving stakeholder decision-making, and reducing report turnaround time by 50%.",
+        "Performed data analysis using MongoDB, enabling better insights into semi structured data and improving reporting speed by 25%.",
+        "Used AWS S3 for storing and organizing data files, enabling seamless access and reducing local storage dependency by 60%.",
+        "Collaborated with business teams to automate manual reports in Power BI and Python, cutting reporting time by 45% and improving data reliability."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "My First Project",
+      "summary": "Short summary about my first project",
+      "url": "https://sample.com",
+      "highlights": [
+        "First Highlight of Project One",
+        "Second Highlight of Project One",
+        "Third Highlight of Project One"
+      ],
+      "images": [
+        {
+          "img_path": "https://picsum.photos/600/338?random=1",
+          "caption": "Image Caption 1"
+        },
+        {
+          "img_path": "https://picsum.photos/600/338?random=2",
+          "caption": "Image Caption 2"
+        },
+        {
+          "img_path": "https://picsum.photos/600/338?random=3",
+          "caption": "Image Caption 3"
+        }
+      ]
+    },
+    {
+      "title": "My Second Project",
+      "summary": "Short summary about my second project",
+      "url": "https://sample.com",
+      "highlights": [
+        "First Highlight of Project Two",
+        "Second Highlight of Project Two",
+        "Third Highlight of Project Two"
+      ],
+      "images": [
+        {
+          "img_path": "https://picsum.photos/600/338?random=4",
+          "caption": "Image Caption 4"
+        },
+        {
+          "img_path": "https://picsum.photos/600/338?random=5",
+          "caption": "Image Caption 5"
+        },
+        {
+          "img_path": "https://picsum.photos/600/338?random=6",
+          "caption": "Image Caption 6"
+        }
+      ]
+    }
+  ],
+  "volunteer_experience": [
+    {
+      "organization": "Latest Organization",
+      "position": "Position One",
+      "url": "https://sample.com",
+      "start_date": "01/01/2020",
+      "end_date": "Present",
+      "summary": "Short summary about present volunteer work",
+      "highlights": [
+        "First Duty of Current Organization",
+        "Second Duty of Current Organization",
+        "Third Duty of Current Organization"
+      ]
+    },
+    {
+      "organization": "Previous Organization",
+      "position": "Position Two",
+      "url": "https://sample.com",
+      "start_date": "01/01/2010",
+      "end_date": "01/01/2020",
+      "summary": "Short summary about previous volunteer work",
+      "highlights": [
+        "First Duty of Previous Organization",
+        "Second Duty of Previous Organization",
+        "Third Duty of Previous Organization"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "JSPM Narhe Technical Campus",
+      "location": "Pune, Maharashtra, India",
+      "degrees": [
+        "Bachelors Of Engineering in Mechanical Engineering"
+      ],
+      "honors": [
+        "Outstanding Student Award",
+        "Dean's List"
+      ],
+      "gpa_cumulative": "3.6",
+      "gpa_major": "4.0",
+      "graduation_date": "12/08/2022"
+    },
+    {
+      "institution": "Institution Two",
+      "location": "Institution Two Location",
+      "url": "https://sample.com",
+      "degrees": [
+        "Bachelor of Science in Physics"
+      ],
+      "honors": [
+        "Scholarship Recipient"
+      ],
+      "gpa_cumulative": "3.2",
+      "gpa_major": "3.9",
+      "graduation_date": "01/01/2000"
+    }
+  ],
+  "skills": [
+    {
+      "name": "SQL (Snowflake, MySQL)",
+      "proficiency": 95,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "Python",
+      "proficiency": 90,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "Power BI",
+      "proficiency": 90,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "AWS",
+      "proficiency": 80,
+      "proficiency_label": "Intermediate"
+    },
+    {
+      "name": "ETL",
+      "proficiency": 85,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "Web Scraping",
+      "proficiency": 80,
+      "proficiency_label": "Intermediate"
+    },
+    {
+      "name": "Excel",
+      "proficiency": 85,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "AI/ML",
+      "proficiency": 75,
+      "proficiency_label": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "My First Hobby",
+      "summary": "Short summary about my first Hobby",
+      "images": [
+        {
+          "img_path": "https://picsum.photos/600/338?random=7",
+          "caption": "Image Caption 7"
+        },
+        {
+          "img_path": "https://picsum.photos/600/338?random=8",
+          "caption": "Image Caption 8"
+        }
+      ]
+    },
+    {
+      "name": "My Second Hobby",
+      "summary": "Short summary about my second hobby",
+      "images": [
+        {
+          "img_path": "https://picsum.photos/600/338?random=9",
+          "caption": "Image Caption 9"
+        },
+        {
+          "img_path": "https://picsum.photos/600/338?random=10",
+          "caption": "Image Caption 10"
+        }
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "American Sign Language",
+      "fluency": "Professional Working Proficiency"
+    }
+  ],
+  "references": [
+    {
+      "name": "Person One",
+      "relation": "Previous Boss",
+      "reference": "Some nice things that Person One said about you, your work ethic, and how you provided value to their team."
+    },
+    {
+      "name": "Person Two",
+      "relation": "Previous Coworker",
+      "reference": "More kind things that Person Two said about you, what it was like working with you, and things you've accomplished."
+    }
+  ]
+}
